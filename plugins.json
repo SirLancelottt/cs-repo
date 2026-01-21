@@ -1,0 +1,9 @@
+[
+  {
+    "name": "Byu Test Plugin",
+    "description": "Öğrenme amaçlı test eklentisi",
+    "version": 1,
+    "url": "https://sirlancelottt.github.io/cs-repo/plugins/byu-test-v1.cs3",
+    "authors": ["Byulent"]
+  }
+]
